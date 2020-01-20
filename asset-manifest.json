@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emmawaverly/React-todo-list-app.git/static/css/main.29fa90b6.chunk.css",
+    "main.js": "/emmawaverly/React-todo-list-app.git/static/js/main.1437157d.chunk.js",
+    "main.js.map": "/emmawaverly/React-todo-list-app.git/static/js/main.1437157d.chunk.js.map",
+    "runtime-main.js": "/emmawaverly/React-todo-list-app.git/static/js/runtime-main.b877fcb1.js",
+    "runtime-main.js.map": "/emmawaverly/React-todo-list-app.git/static/js/runtime-main.b877fcb1.js.map",
+    "static/js/2.44b538b4.chunk.js": "/emmawaverly/React-todo-list-app.git/static/js/2.44b538b4.chunk.js",
+    "static/js/2.44b538b4.chunk.js.map": "/emmawaverly/React-todo-list-app.git/static/js/2.44b538b4.chunk.js.map",
+    "index.html": "/emmawaverly/React-todo-list-app.git/index.html",
+    "precache-manifest.8fc8ec3bfc952cb8b97dba41352fadd1.js": "/emmawaverly/React-todo-list-app.git/precache-manifest.8fc8ec3bfc952cb8b97dba41352fadd1.js",
+    "service-worker.js": "/emmawaverly/React-todo-list-app.git/service-worker.js",
+    "static/css/main.29fa90b6.chunk.css.map": "/emmawaverly/React-todo-list-app.git/static/css/main.29fa90b6.chunk.css.map",
+    "static/js/2.44b538b4.chunk.js.LICENSE": "/emmawaverly/React-todo-list-app.git/static/js/2.44b538b4.chunk.js.LICENSE",
+    "static/media/logo.svg": "/emmawaverly/React-todo-list-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b877fcb1.js",
+    "static/js/2.44b538b4.chunk.js",
+    "static/css/main.29fa90b6.chunk.css",
+    "static/js/main.1437157d.chunk.js"
+  ]
+}
